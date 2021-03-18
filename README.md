@@ -7,6 +7,7 @@ The contracts that determine the Yield-Farming and Staking protocols in the Aval
 ## Deployed Contracts / Hash
 - Complus(COM) - [0x3711c397B6c8F7173391361e27e67d72F252cAad](https://cchain.explorer.avax.network/address/0x3711c397B6c8F7173391361e27e67d72F252cAad/contracts)
 
+- Timelock - [0xc7e797871D6be48fb4983108Bc87eBb32c9199D2](https://cchain.explorer.avax.network/address/0xc7e797871D6be48fb4983108Bc87eBb32c9199D2/contracts)
 - Multicall - [0xa00FB557AA68d2e98A830642DBbFA534E8512E5f](https://cchain.explorer.avax.network/address/0xa00FB557AA68d2e98A830642DBbFA534E8512E5f/contracts)
 - ConverterRegistryContract - [0xdC7e0720b805Cb6DC7b9168f37D2a7b9635c3734](https://cchain.explorer.avax.network/address/0xdC7e0720b805Cb6DC7b9168f37D2a7b9635c3734/contracts)
 
